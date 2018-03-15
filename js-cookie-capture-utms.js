@@ -18,7 +18,6 @@ url_cpn = getParameter('utm_campaign');
 	test = "\nGet url parameters in variables: ?utm_source="+url_src+"&utm_medium="+url_mdm+"&utm_campaign="+url_cpn;
 	document.write(test);
 
-// paramètre le cookie
 var pepites = new Object();
 var pate_cookie = Cookies.get('cookie_utms');
 
