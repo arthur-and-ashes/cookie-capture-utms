@@ -12,3 +12,6 @@ https://github.com/js-cookie/js-cookie
 HOW TO USE
 1. call the JS COOKIE Library on the <head> (or at the end of your body) on all your pages
 2. Call the cookie capture UTMS file on the <head> (or at the end of your body) on all your pages
+  
+  Retrouvez le tutoriel complet en français // Tutorial in French
+  https://code.broker/tutorials/sauvegarder-utms-et-autres-liens-de-tracking-dans-un-cookie/
