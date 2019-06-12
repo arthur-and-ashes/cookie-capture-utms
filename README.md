@@ -1,5 +1,5 @@
 # cookie-capture-utms
-Cookie creation (in JS) to capture UTM several sources, mediums and campaigns in order to use its
+Cookie creation (in JS) to capture UTM several sources, mediums and campaigns in order to use its later.
 
 GOAL
 1. Using the Library JS Cookie :
