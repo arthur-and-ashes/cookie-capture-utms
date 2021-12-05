@@ -1,3 +1,4 @@
+// Ce script marche avec la bibliothèque JS-Cookie. Elle devra être chargée avant ce script.
 // création du cookie. à ajouter sur toutes les pages du site
 // Récupère les paramètres de l'url 
 function getParameter(theParameter) {
